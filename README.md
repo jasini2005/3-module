@@ -13,9 +13,9 @@ cylinderconstructor
 cylindercalc
 <img width="982" height="367" alt="Screenshot 2025-11-15 230925" src="https://github.com/user-attachments/assets/ba53e8ec-659b-4d8a-82c9-2229ab0b5360" />
 bank
-<img width="1064" height="415" alt="Screenshot 2025-11-15 230936" src="https://github.com/user-attachments/assets/5d58cec4-e45e-48a7-ad49-563dde485e6a" />
+<img width="1188" height="346" alt="Screenshot 2025-11-15 230948" src="https://github.com/user-attachments/assets/b5a18ffb-37d3-4122-81d4-9251e7286e06" />
 area calculator
-<img width="1188" height="346" alt="Screenshot 2025-11-15 230948" src="https://github.com/user-attachments/assets/b01f2b1e-36c0-4404-a1f9-47e7115de6ab" />
+<img width="981" height="314" alt="Screenshot 2025-11-15 230959" src="https://github.com/user-attachments/assets/ff60364e-8618-48ce-bc5e-d69aa4d2f212" />
 student
 <img width="1088" height="414" alt="Screenshot 2025-11-15 231011" src="https://github.com/user-attachments/assets/e756dc61-9ab0-4d40-9bf4-ce5caaa7cee2" />
 integerstack
